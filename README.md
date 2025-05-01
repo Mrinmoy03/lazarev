@@ -1,6 +1,6 @@
 # Lazarev. Design Agency Website
 
-A conceptual design agency website showcasing expertise in UI/UX and digital product design across various industries. Built with HTML, CSS, and JavaScript, it serves as a portfolio piece demonstrating design and frontend development skills.
+A conceptual design agency website showcasing expertise in UI/UX and digital product design across various industries. Recreated with HTML, CSS, and JavaScript, it serves as a portfolio piece demonstrating design and frontend development skills.
 
  🌐 Live Demo
 
